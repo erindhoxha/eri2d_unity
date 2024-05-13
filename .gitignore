@@ -1,0 +1,136 @@
+Library
+library
+Temp
+temp
+Obj
+obj
+Build
+build
+Builds
+builds
+UserSettings
+usersettings
+MemoryCaptures
+memorycaptures
+Logs
+logs
+/ignore.conf
+*.private
+*.private.meta
+^*.private.[0-9]+$
+^*.private.[0-9]+.meta$
+**/Assets/AssetStoreTools
+**/assets/assetstoretools
+/Assets/Plugins/PlasticSCM*
+/assets/plugins/PlasticSCM*
+.vs
+.gradle
+ExportedObj
+.consulo
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+*.apk
+*.unitypackage
+.collabignore
+~UnityDirMonSyncFile~*
+crashlytics-build.properties
+**/Assets/AddressableAssetsData/*/*.bin*
+**/assets/addressableassetsdata/*/*.bin*
+**/Assets/StreamingAssets/aa.meta
+**/assets/streamingassets/*/aa/*
+.DS_Store*
+Thumbs.db
+Desktop.ini
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[lL]ogs/
+[Uu]ser[Ss]ettings/
+
+# ===================================== #
+# Visual Studio / Rider / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+
+# ====================== #
+# Unity specific ignores #
+# ====================== #
+/[Aa]ssets/[Aa]sset[Ss]tore[Tt]ools*
+/[Aa]ssets/[Aa]sset[Ss]tore[Tt]ools*
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/AssetStoreTools*
+# Rider
+.idea/
+
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
+
+# *.unity files have version-specific meta data
+*.unity
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+.plastic
+Assets/Items
+Assets/Miniature Army 2D V.1
+Assets/Prefabs
+Assets/Animations
+Assets/Audio
+Assets/Background
+Assets/CasualGameSounds
+Assets/Scenes
+Assets/Text
+Library
+Legends of Eri.app/Contents
+Packages
+ProjectSettings
